@@ -1,4 +1,5 @@
 # UCertified Data Science - Case Study
+![Screenshot 2025-03-04 110358](https://github.com/user-attachments/assets/80030f27-e116-404f-a05f-06f450e1f7dd)
 
 ## Overview
 The **UCertified Data Science** repository is a study case exploring the feasibility and impact of the **UCertified** platform before its implementation. The project aims to statistically support the need for UCertified by analyzing trends in higher education, digital certification, and blockchain-based credentials.
